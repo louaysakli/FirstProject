@@ -1,0 +1,14 @@
+img{
+    max-width:500px;
+    height: 20%;
+    border: black;
+    border-radius: 10px;
+
+}
+body{
+    background-color: rgb(151, 165, 165);
+}
+td{
+    width: 50%;
+    height: 100%;
+}
