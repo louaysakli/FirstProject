@@ -5,9 +5,11 @@ img{
     border-radius: 10px;
 
 }
-body{
-    background-color: rgb(151, 165, 165);
-}
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
 td{
     width: 50%;
     height: 100%;
